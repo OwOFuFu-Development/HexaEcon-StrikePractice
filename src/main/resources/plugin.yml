@@ -1,0 +1,7 @@
+name: HexaStrikePractice
+version: '1.0'
+main: space.kiyoshi.hexastrikepractice.HexaStrikePractice
+api-version: 1.16
+depend:
+  - HexaEcon
+  - StrikePractice
